@@ -5,6 +5,7 @@
 - Junit above 5.11.x
 # Execution
 ## Option 1- Run by Maven Test
+Entry project folder "ClimbStairTest"
 ```
 mvn test
 ```
